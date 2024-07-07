@@ -1,4 +1,4 @@
-### Scenario 2: Implement Ambassador Pattern
+### Scenario 2: Implement Ambassador Pattern.
 
 #### Setup Script
 
